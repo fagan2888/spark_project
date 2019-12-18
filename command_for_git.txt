@@ -1,0 +1,13 @@
+TO PUSH UPDATES : 
+
+in git bash : 
+$ cd \spark_project
+$ git add . 
+$ git commit -m "Description des modifs apportées" 
+$ git push -u origin master
+
+TO PULL MODIFICATIONS MADE BY OTHER 
+
+in git bash : 
+$ cd \spark_project
+$ git pull origin master 
